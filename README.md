@@ -6,3 +6,4 @@ Technology used:
 HTML and CSS
 
 GitHub link: https://github.com/180793/Local-Gym-Website
+Netlify link: https://reverent-curran-426027.netlify.app/
